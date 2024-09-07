@@ -22,10 +22,6 @@ function Thankyou() {
           CheckOut my latest FullStack Project
         </a>
       </div>
-      <p>
-        I have used React , Tailwind , Express , Node.js ,Mongodb , Jwt ,
-        cookies{" "}
-      </p>
     </div>
   );
 }
